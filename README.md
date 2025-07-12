@@ -14,6 +14,6 @@ This practice helped reinforce my understanding of HTML, CSS, and JavaScript fun
 - HTML structure and form elements
 - Styling UI with CSS
 
-📚 Tutorial Credit: Prashant Sir (YouTube)
+📚 **Tutorial Credit**: Prashant Sir (YouTube)
 
 🛑 This code is shared for educational purposes only. Please do not copy or redistribute it without credit.
