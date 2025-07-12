@@ -1,0 +1,54 @@
+/* 
+  Created by Drishti Yadav (2025)
+  Based on a YouTube tutorial by Prashant Sir
+  Custom styling, background image, fonts, and hover effects added
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 218, 185, 0.17);
+  background-image: url(images/bg.avif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#calculator {
+  border: 1px solid rgb(90, 72, 72);
+  border-radius: 5px;
+  width: 200px;
+}
+
+#display {
+  margin: 10px;
+  width: 85%;
+  font-size: 25px;
+}
+
+#button_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
+
+.button:hover {
+  background-color: rgb(181, 173, 173);
+}
